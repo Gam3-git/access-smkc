@@ -10,7 +10,7 @@ const Home = () =>  {
 
         <img src={logo} width={150} alt="Logo"></img>
         <h3 className="text-muted text-center">ศาลจังหวัดสมุทรสงคราม</h3>
-        <h1 className="text-primary text-center">ระบบบริการค้นหาข้อมูลคดี</h1>
+        <h1 className="text-primary text-center">ระบบบริการค้นหาข้อมูลคดี </h1>
 
         <div className="row mt-5">
 
@@ -35,7 +35,8 @@ const Home = () =>  {
           </div>
         </div>
         </div>
-        <p><br />ระบบบริการข้อมูลประชาชนใช้บริการแสดงข้อมูลเบื้องต้นเท่านั้น.</p>
+        <p><br />ระบบบริการข้อมูลประชาชนใช้บริการแสดงข้อมูลเบื้องต้น โดยแสดงข้อมูลเดิมก่อน วันที่ 21 ก.ค. 66 เท่านั้น.</p>
+        <p className='text-danger'>ระบบ Access สิ้นสุดบริการไม่ปรับปรุงฐานข้อมูล ณ วันที่ 21 กค. 2566.</p>
         </div>
 
       </div>
